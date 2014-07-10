@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerScripts\Invent.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerScripts\Invent.cs" Line="60" Column="79" />
+      <File FileName="Assets\Scripts\PlayerScripts\Invent.cs" Line="60" Column="79" />
+      <File FileName="Assets\Scripts\ItemIconScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\StartGUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BossFightTP.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BackToStartingRoom.cs" Line="28" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
