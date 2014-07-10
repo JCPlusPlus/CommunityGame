@@ -3,7 +3,6 @@ using System.Collections;
 using System.Collections.Generic;
 
 
-//gbhfdshgfntyr
 
 public class Invent : MonoBehaviour {
 
